@@ -2,3 +2,4 @@ node_modules
 .pdf
 .mp4
 dist
+.env
